@@ -44,7 +44,7 @@ movie1.displayInfo()
 // Display the updated information of the movie
 updateMovieRating(movie1, 10)
 movie1.displayInfo()
-k
+
 
 
 
